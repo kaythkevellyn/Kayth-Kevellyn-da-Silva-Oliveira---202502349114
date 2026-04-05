@@ -28,4 +28,4 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Streamlit config local (opcional)
-.streamlit/secrets.toml
+.streamlit/secrets.tomlgit status
